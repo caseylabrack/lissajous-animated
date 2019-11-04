@@ -1,8 +1,8 @@
 // change these
-int freqX = 7;
-int freqY = 3;
-int modx = 12;
-int mody = 1;
+int freqX = 12;
+int freqY = 6;
+int modx = 9;
+int mody = 18;
 
 void setup() {
   size(640, 640);
